@@ -1,0 +1,5 @@
+--- Comando
+type <command> -> verificar que tipo de comando es
+type -t <command> -> verifica existencias de comandos o arvhicos esto para dar nombres únicos a archivos
+
+/etc/profile -> guarda variables de entorno del sistema operativo
