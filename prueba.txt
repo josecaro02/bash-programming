@@ -1,2 +1,1 @@
-Valores escritos con echo
-Valores con el comando cat
+prueba txt
